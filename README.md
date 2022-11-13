@@ -11,7 +11,7 @@ demo.py：Input picture or video path, frame by frame output algorithm results(t
 The only thing that needs to be changed is the path:
 Line10 :  videoPath = './test/images' ##change to the path where you want to test the image
 
-# The trained weight path is(already configured in this code)：
+The trained weight path is(already configured in this code)：
 ./save_pth/ISTDU_Net/best.pth
 
 ！！！Note：img, _ = processGray(img, scale=scale, inp_h=inpShape[1], inp_w=inpShape[0])
