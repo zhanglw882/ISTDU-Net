@@ -18,6 +18,8 @@ The trained weight path is(already configured in this code)：
 This function automatically fills images of any size to adapt to the input of the network. Therefore, the larger the input image, the larger the GPU resources will be consumed. 
 The input image should preferably be 512 x 512 pixels, a graphics card of 2080Ti is enough.
 
+## Train
+The train code is update:train_DS.py
 
 ##The link to download the paper：https://doi.org/10.1109/LGRS.2022.3141584
 
